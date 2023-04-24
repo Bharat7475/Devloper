@@ -22,7 +22,7 @@ int main(void) {
 */
 	int marathi,english,math,scince,history;
 
-	printf("enter the subject marks as valis sen.\n");
+	printf("enter the subject marks as ...\n");
 	scanf("%d%d%d%d%d",&marathi,&english,&math,&scince,&history);
 
 //  take the user marks and show the grade of the marks...
